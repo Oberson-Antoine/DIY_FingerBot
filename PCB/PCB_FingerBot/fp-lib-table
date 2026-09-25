@@ -1,4 +1,5 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "Pad connector") (type "KiCad") (uri "${KIPRJMOD}/Librairies/Pad connector.pretty") (options "") (descr ""))
+	(lib (name "LQM2HPN1R0MG0L") (type "KiCad") (uri "${KIPRJMOD}/Librairies/LQM2HPN1R0MG0L.pretty") (options "") (descr ""))
 )

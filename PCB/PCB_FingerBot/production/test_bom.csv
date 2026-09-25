@@ -1,3 +1,5 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,1,Conn_01x02_Pin,C131337
+J2,Pads 1x2 2.54mm Battery,1,Conn_2_pads,
 U1,XIAO-ESP32-C6-SMD,1,XIAO-ESP32-C6-SMD,
-U2,Texas_R-PDSO-G6,1,TPS61222DCK,
+U3,SOT-5X3-6_DRL_TEX,1,TPS61299ADRLR,
