@@ -3076,7 +3076,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 122.428 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -3099,6 +3099,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C246003"
 			(at 120.65 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -3158,7 +3169,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 227.33 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -3181,6 +3192,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 227.33 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C49257"
 			(at 227.33 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -3231,7 +3253,7 @@
 				)
 			)
 		)
-		(property "Value" "1 μH"
+		(property "Value" "2.7 μH"
 			(at 96.52 127 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3241,7 +3263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
+		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
 			(at 96.52 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3263,7 +3285,7 @@
 				)
 			)
 		)
-		(property "Description" "LQM2HPN1R0MG0L"
+		(property "Description" "1255AY-2R7N=P3"
 			(at 96.52 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3274,7 +3296,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C86091"
+		(property "LCSC" "C3222940"
 			(at 96.52 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -3814,7 +3836,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 122.428 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -3837,6 +3859,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C481918"
 			(at 120.65 166.37 0)
 			(hide yes)
 			(show_name no)
